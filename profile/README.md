@@ -60,9 +60,11 @@
 
 ### 🌟 제목
 
-<a href="https://github.com/Novel-Ideas/gumeonggage-front">
-    <h2>매장용 키오스크 "구멍가게" 개발</h2>
-</a>
+<h2>
+    <a href="https://github.com/Novel-Ideas/gumeonggage-front">
+        매장용 키오스크 "구멍가게" 개발
+    </a>
+</h2>
 
 ### 🔎 주요 기능
 
