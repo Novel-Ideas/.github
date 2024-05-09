@@ -62,7 +62,7 @@
 
 <h2>
     <a href="https://github.com/Novel-Ideas/gumeonggage-front">
-        매장용 키오스크 "구멍가게" 개발
+        차세대 키오스크 "GUMEONG GAGE" 개발
     </a>
 </h2>
 
